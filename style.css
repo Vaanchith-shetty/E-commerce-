@@ -39,14 +39,6 @@ footer{
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
-.form-box {
-    width: 230px;             
-    background-color: rgba(244, 245, 247, 0.8);
-    padding: 50px;
-    margin:auto;
-    border-radius: 8px;
-}
 label {
     font-size: 10px;
 }
@@ -64,4 +56,5 @@ button {
 }
 button:hover {
     background: #840b0b;
+
 }
